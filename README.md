@@ -42,6 +42,8 @@ used.
 
 #### Area report:
 
+![Screenshot 2025-05-19 171040](https://github.com/user-attachments/assets/408b2855-2de6-454f-a529-12c50c3ea20e)
+
 
 #### Power Report:
 
